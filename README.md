@@ -1,2 +1,3 @@
-# study-dart
-studying dart.
+# study-flutter 
+
+studying flutter including dart.
